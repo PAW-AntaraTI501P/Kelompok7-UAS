@@ -5,6 +5,8 @@
 
 ## Table of Contents
 - [Use Case Diagram](#use-case-diagram)
+- [Class Diagram](#class-diagram)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Project Structure](#project-structure)
 - [API Testing Documentation](#api-testing-documentation)
 - [How to Run](#how-to-run)
@@ -30,6 +32,12 @@
 
 ## Use Case Diagram
 <img width="600" height="582" alt="use case bakery revisi 1" src="https://github.com/user-attachments/assets/63cc5b5f-aa3c-4a21-8f54-da43977d0975" /> 
+
+## Class Diagram
+<img width="1270" height="774" alt="image" src="https://github.com/user-attachments/assets/139cee2d-6f37-46a4-8f25-569af0dd7210" />
+
+## Entity Relationship Diagram
+<img width="953" height="684" alt="image" src="https://github.com/user-attachments/assets/5b79dd24-5eaa-47a2-be67-4c85c5be0136" />
 
 ## Project Structure
 ```
